@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='C:\Users\Sebastian Lindgren\Documents\tobise\cv\tailwind-react\src\card'
+let g:netrw_dirhist_5='C:/Users/Sebastian Lindgren/Documents/tobise/cv/old-cv-base/cv'
+let g:netrw_dirhist_4='C:/Users/Sebastian Lindgren/Documents/tobise/cv/old-cv-base'
+let g:netrw_dirhist_3='C:/Users/Sebastian Lindgren/Documents/GitHub/DockerTests/SimpleFlaskRestfulAPI'
+let g:netrw_dirhist_2='C:/Users/Sebastian Lindgren/Documents/GitHub/DockerTests'
+let g:netrw_dirhist_1='C:/Users/Sebastian Lindgren/Documents/GitHub'
